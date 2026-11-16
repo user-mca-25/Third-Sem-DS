@@ -1,0 +1,154 @@
+Student_ID,Age,Gender,Department,Attendance,Study_Hours,Assignment_Score,Midterm_Score,Final_Score,Sleep_Hours,Internet_Hours,Exam_Date,Result,Feedback,Performance_Level
+1085,20,Male,Mathematics,75.9,0.5,52.2,61.7,69.5,6.4,4.5,2026-06-04,Pass,Needs more practice,Medium
+1087,21,Female,Mathematics,86.5,2.6,71.0,85.7,100.0,6.3,2.5,2026-06-07,Pass,Excellent effort,High
+1098,20,Female,ECE,70.8,2.6,80.7,75.6,97.8,5.3,4.8,2026-06-12,Pass,Very well prepared,High
+1116,23,Male,IT,100.0,2.4,81.1,77.5,93.2,8.2,1.2,2026-06-11,Pass,Needs more practice,High
+1030,20,Male,IT,86.8,0.5,61.7,77.8,82.7,6.4,2.2,2026-06-06,Pass,Good preparation,High
+1115,18,Male,CSE,70.1,2.3,68.2,76.4,73.7,5.9,3.6,2026-06-18,Pass,Excellent effort,High
+1079,22,Female,ECE,75.2,3.1,68.1,74.4,96.1,6.3,5.7,2026-06-20,Pass,Needs more practice,High
+1082,22,Female,ECE,75.6,2.3,85.9,83.9,100.0,7.7,4.3,2026-06-05,Pass,Average preparation,High
+1019,20,Female,Physics,67.6,3.5,74.5,76.6,73.0,7.5,4.9,2026-06-20,Pass,Needs more practice,High
+1016,19,Female,ECE,71.4,2.3,,73.0,85.5,6.6,3.3,2026-06-03,Pass,Good preparation,High
+1020,21,Female,IT,63.8,3.1,62.7,66.6,81.9,6.1,2.5,2026-06-04,Pass,Very well prepared,High
+1013,20,Female,ECE,69.8,3.0,98.9,86.1,100.0,7.3,4.8,2026-06-07,Pass,Excellent effort,High
+1010,21,Male,ECE,,2.7,76.5,69.4,99.4,7.2,1.7,2026-06-13,Pass,Good preparation,High
+1043,23,Male,IT,77.4,3.3,90.8,84.8,99.7,5.4,5.6,2026-06-13,Pass,Very well prepared,High
+1052,22,Male,ECE,74.9,2.3,71.1,86.6,84.1,6.2,6.1,2026-06-06,Pass,Needs better time management,High
+1070,21,Male,CSE,61.7,3.3,80.1,74.9,86.9,6.1,5.6,2026-06-13,Pass,Needs more practice,High
+1110,20,Female,Physics,73.8,2.1,71.8,66.6,83.0,7.5,3.6,2026-06-09,Pass,Good preparation,High
+1137,18,Male,ECE,66.4,1.2,50.6,57.3,81.7,7.6,4.7,2026-06-17,Pass,Average preparation,High
+1066,20,Female,Physics,100.0,12.0,100.0,100.0,100.0,8.6,2.2,2026-06-17,Pass,Excellent effort,High
+1097,19,Male,CSE,75.0,4.0,75.0,82.7,100.0,5.9,1.4,2026-06-04,Pass,Average preparation,High
+1076,23,Male,Physics,81.6,4.0,72.6,84.3,100.0,6.4,5.2,2026-06-19,Pass,Excellent effort,High
+1124,21,Male,CSE,69.2,0.5,44.9,65.7,58.2,7.7,4.6,2026-06-11,Pass,Good preparation,Medium
+1032,21,Male,CSE,85.4,,100.0,100.0,100.0,6.7,2.6,2026-06-19,Pass,,High
+1067,22,Male,Physics,74.0,4.3,92.9,86.6,100.0,6.4,2.3,2026-06-13,Pass,Very well prepared,High
+1056,20,Male,Physics,81.4,4.6,100.0,88.0,100.0,6.7,2.7,2026-06-07,Pass,Needs more practice,High
+1031,22,Male,Physics,81.5,2.9,78.2,71.2,74.4,6.5,0.5,2026-06-04,Pass,Excellent effort,High
+1027,19,Female,CSE,,2.5,82.8,63.9,87.3,9.0,1.9,2026-06-19,Pass,Needs more practice,High
+1132,19,Female,Physics,81.7,4.7,82.3,82.6,100.0,6.0,2.1,2026-06-05,Pass,Needs better time management,High
+1136,19,Male,Mathematics,100.0,4.0,89.8,98.6,100.0,5.9,1.2,2026-06-05,Pass,Excellent effort,High
+1037,19,Male,CSE,100.0,3.6,74.4,93.1,100.0,8.2,5.2,2026-06-01,Pass,Needs better time management,High
+1114,18,Male,Mathematics,100.0,4.1,100.0,100.0,100.0,6.3,4.0,2026-06-20,Pass,Needs better time management,High
+1095,22,Female,Mathematics,83.7,2.5,83.2,75.4,97.7,7.0,3.9,2026-06-12,Pass,Good preparation,High
+1069,21,Male,ECE,93.1,2.4,69.3,75.4,100.0,7.0,4.4,2026-06-17,Pass,Average preparation,High
+1023,21,Female,Physics,65.6,1.5,70.1,73.9,89.1,8.8,2.0,2026-06-19,Pass,Average preparation,High
+1046,20,Female,CSE,73.7,3.5,81.0,85.2,95.8,7.9,4.8,2026-06-06,Pass,Needs more practice,High
+1077,20,Male,Physics,74.5,2.4,85.2,66.7,86.5,8.2,2.6,2026-06-05,Pass,Good preparation,High
+1012,19,Female,CSE,74.1,3.3,63.1,76.8,87.0,7.2,3.1,2026-06-17,Pass,Excellent effort,High
+1135,18,Male,CSE,69.3,1.8,76.2,90.1,79.8,7.3,4.0,2026-06-03,Pass,Very well prepared,High
+1133,20,Male,IT,68.1,4.7,88.7,80.2,93.0,4.0,5.6,2026-06-18,Pass,Needs better time management,High
+1129,21,Female,Mathematics,83.6,4.3,93.2,83.1,100.0,7.2,3.1,2026-06-10,Pass,Average preparation,High
+1028,19,Male,Mathematics,81.0,4.4,90.1,89.5,100.0,5.4,3.4,2026-06-13,Pass,Very well prepared,High
+1065,19,Female,CSE,79.7,4.7,90.8,98.1,100.0,7.3,3.8,2026-06-11,Pass,Very well prepared,High
+1143,20,Female,ECE,64.6,1.4,60.8,67.4,68.4,6.5,1.6,2026-06-18,Pass,,Medium
+1128,21,Male,ECE,71.2,2.1,70.6,88.3,93.6,5.9,4.3,2026-06-07,Pass,Good preparation,High
+1005,19,Female,Physics,73.8,4.1,71.8,84.0,100.0,6.1,2.0,2026-06-07,Pass,Needs more practice,High
+1033,22,Male,IT,71.3,3.0,71.0,81.0,92.7,8.1,2.2,2026-06-16,Pass,Needs more practice,High
+1109,20,Female,Physics,78.5,4.3,91.6,87.8,95.5,7.2,4.0,2026-06-12,Pass,Needs better time management,High
+1091,20,Male,Mathematics,83.4,3.1,80.1,89.9,100.0,5.7,4.4,2026-06-04,Pass,Very well prepared,High
+1105,20,Male,CSE,66.6,3.6,78.7,76.2,87.8,6.4,4.9,2026-06-16,Pass,Very well prepared,High
+1017,21,Male,CSE,89.4,1.9,70.3,71.8,82.6,6.7,3.1,2026-06-05,Pass,Needs more practice,High
+1112,19,Male,Mathematics,84.7,3.5,76.4,87.1,95.1,6.5,3.4,2026-06-04,Pass,Excellent effort,High
+1011,18,Female,CSE,73.6,4.5,87.9,80.5,100.0,6.4,14.5,2026-06-20,Pass,Needs more practice,High
+1057,19,Female,ECE,74.1,3.9,65.8,76.0,92.4,6.1,2.4,2026-06-09,Pass,Average preparation,High
+1058,21,Female,ECE,84.0,2.1,76.5,73.0,91.8,,5.5,2026-06-16,Pass,Very well prepared,High
+1113,20,Female,Physics,88.4,5.1,100.0,85.1,100.0,5.4,4.7,2026-06-11,Pass,Excellent effort,High
+1061,21,Female,ECE,66.8,1.6,66.5,72.8,68.3,7.5,4.6,2026-06-10,Pass,Good preparation,Medium
+1068,21,Female,IT,79.0,2.0,86.2,89.0,96.7,8.7,4.7,2026-06-06,Pass,Very well prepared,High
+1102,19,Male,Mathematics,72.3,2.1,66.5,86.1,82.6,7.0,2.3,2026-06-14,Pass,Needs better time management,High
+1111,22,Female,ECE,59.2,1.9,51.7,64.9,72.1,6.4,3.6,2026-06-13,Pass,Excellent effort,High
+1025,19,Female,Mathematics,74.7,1.6,69.5,68.2,88.2,7.2,0.6,2026-06-17,Pass,Average preparation,High
+1001,22,Male,IT,90.3,2.6,85.7,81.5,99.1,7.0,1.1,2026-06-03,Pass,Good preparation,High
+1045,23,Male,Mathematics,58.9,1.9,57.7,69.5,73.1,7.9,4.1,2026-06-17,Pass,,High
+1149,21,Male,Mathematics,83.1,3.4,81.7,73.7,100.0,6.8,4.3,2026-06-02,Pass,Needs more practice,High
+1029,24,Male,ECE,78.4,1.7,55.8,55.9,68.9,7.5,5.3,2026-06-12,Pass,Very well prepared,Medium
+1041,21,Female,ECE,90.8,2.3,89.8,75.5,100.0,7.3,3.3,2026-06-15,Pass,Average preparation,High
+1096,20,Female,Physics,60.9,2.0,74.6,56.5,76.1,7.7,3.5,2026-06-20,Pass,Excellent effort,High
+1026,20,Male,IT,58.2,2.7,76.9,72.7,81.5,6.1,6.6,2026-06-14,Pass,Very well prepared,High
+1024,21,Female,Physics,66.3,2.4,66.0,67.1,77.2,6.1,3.7,2026-06-19,Pass,Needs better time management,High
+1142,19,Male,IT,87.3,5.0,100.0,100.0,100.0,6.5,5.5,2026-06-01,Pass,Needs more practice,High
+1040,18,Male,Mathematics,59.6,2.1,78.2,71.4,96.9,6.9,2.9,2026-06-17,Pass,Average preparation,High
+1145,19,Male,IT,87.9,5.2,97.3,98.5,100.0,6.2,2.8,2026-06-10,Pass,Average preparation,High
+1123,20,Female,IT,86.7,5.2,89.4,100.0,100.0,5.9,6.0,2026-06-18,Pass,Excellent effort,High
+1048,23,Male,CSE,63.3,4.6,97.2,81.9,100.0,6.1,3.6,2026-06-20,Pass,Needs more practice,High
+1147,20,Male,IT,61.4,1.1,67.5,45.1,60.6,7.4,2.5,2026-06-01,Pass,Good preparation,Medium
+1119,20,Female,ECE,87.5,2.7,93.4,92.7,100.0,6.6,6.8,2026-06-01,Pass,Needs better time management,High
+1074,22,Male,ECE,90.1,4.6,96.7,99.5,100.0,6.7,1.9,2026-06-03,Pass,Average preparation,High
+1034,20,Female,CSE,75.8,,74.9,64.4,89.8,8.5,0.5,2026-06-13,Pass,Average preparation,High
+1094,18,Male,IT,90.3,1.5,64.1,77.6,82.1,6.8,3.1,2026-06-14,Pass,Average preparation,High
+1150,18,Male,IT,85.2,4.3,93.1,100.0,100.0,5.9,4.0,2026-06-11,Pass,Average preparation,High
+1063,21,Male,Physics,91.6,,69.9,72.9,79.1,5.7,3.0,2026-06-03,Pass,Needs more practice,High
+1083,22,Female,CSE,65.8,5.9,100.0,94.3,100.0,6.6,2.0,2026-06-04,Pass,Needs better time management,High
+1086,19,Male,Physics,73.7,1.4,59.2,69.1,84.4,7.2,3.3,2026-06-07,Pass,Very well prepared,High
+1054,20,Female,CSE,76.4,1.1,75.5,76.0,94.5,6.9,3.5,2026-06-14,Pass,Average preparation,High
+1006,22,Female,IT,61.4,3.1,83.1,78.2,92.5,6.9,3.2,2026-06-10,Pass,Needs better time management,High
+1099,21,Male,IT,80.6,3.1,76.4,99.6,100.0,9.0,4.0,2026-06-10,Pass,Excellent effort,High
+1106,21,Female,CSE,83.2,2.4,71.1,80.8,100.0,7.4,4.5,2026-06-10,Pass,Good preparation,High
+1050,23,Female,CSE,57.5,1.6,58.4,62.1,65.1,7.6,3.9,2026-06-15,Pass,Needs more practice,Medium
+1036,20,Male,CSE,58.4,2.9,77.5,49.5,65.3,7.1,4.0,2026-06-17,Pass,Average preparation,Medium
+1081,21,Male,Mathematics,69.0,5.9,85.3,73.4,94.1,6.6,4.7,2026-06-10,Pass,Average preparation,High
+1078,20,Female,ECE,70.3,3.7,83.3,75.7,94.2,5.5,3.6,2026-06-05,Pass,Needs better time management,High
+1035,21,Male,IT,78.8,5.8,87.4,95.1,100.0,4.9,3.8,2026-06-04,Pass,Needs better time management,High
+1120,19,Male,CSE,84.1,2.9,95.0,91.8,100.0,7.0,5.0,2026-06-07,Pass,Needs more practice,High
+1008,18,Female,CSE,87.0,4.3,86.8,91.7,100.0,6.8,4.9,2026-06-14,Pass,Needs better time management,High
+1044,23,Female,CSE,84.6,3.1,,86.5,100.0,4.9,5.4,2026-06-01,Pass,Excellent effort,High
+1071,20,Male,CSE,63.3,2.6,87.0,88.4,100.0,5.9,1.6,2026-06-19,Pass,Average preparation,High
+1141,20,Male,CSE,65.4,5.6,100.0,84.1,100.0,5.8,3.9,2026-06-09,Pass,Needs better time management,High
+1126,19,Female,ECE,98.6,2.6,89.9,100.0,100.0,6.9,4.5,2026-06-15,Pass,Good preparation,High
+1084,20,Male,Physics,80.5,0.5,56.4,75.1,92.8,8.4,4.1,2026-06-06,Pass,Average preparation,High
+1138,18,Female,ECE,,3.1,81.1,79.2,85.5,5.5,5.7,2026-06-19,Pass,Excellent effort,High
+1139,22,Male,CSE,93.2,2.1,84.5,76.5,85.5,6.0,2.6,2026-06-19,Pass,Good preparation,High
+1090,20,Male,Physics,76.8,3.3,91.7,80.6,100.0,7.4,0.5,2026-06-01,Pass,Needs more practice,High
+1009,19,Male,Mathematics,84.8,1.6,79.6,78.7,97.3,8.2,2.8,2026-06-04,Pass,Needs more practice,High
+1014,21,Female,CSE,69.0,2.6,,50.3,68.8,5.6,4.9,2026-06-04,Pass,Needs more practice,Medium
+1125,21,Male,ECE,76.8,5.0,,89.6,100.0,4.1,3.9,2026-06-20,Pass,Very well prepared,High
+1140,21,Female,CSE,61.8,2.8,70.5,70.7,83.9,7.3,2.0,2026-06-12,Pass,Average preparation,High
+1004,19,Male,IT,95.8,5.8,100.0,100.0,100.0,6.4,6.7,2026-06-08,Pass,Good preparation,High
+1018,19,Female,CSE,77.3,2.8,69.9,78.2,100.0,7.6,3.4,2026-06-16,Pass,Needs more practice,High
+1039,20,Female,ECE,63.1,2.4,73.6,50.6,79.4,7.2,1.3,2026-06-20,Pass,Needs better time management,High
+1073,22,Female,IT,78.0,3.2,90.3,71.6,93.3,5.9,3.9,2026-06-10,Pass,Good preparation,High
+1134,21,Female,CSE,89.8,4.3,93.6,99.1,100.0,7.0,2.8,2026-06-05,Pass,Excellent effort,High
+1007,21,Male,CSE,89.0,3.9,86.7,95.6,100.0,7.2,3.1,2026-06-06,Pass,Needs better time management,High
+1118,21,Female,Physics,60.5,4.2,80.2,74.1,95.5,6.8,4.8,2026-06-18,Pass,Average preparation,High
+1101,21,Male,Mathematics,64.0,1.3,63.2,63.9,73.3,,5.0,2026-06-03,Pass,Needs better time management,High
+1003,21,Female,ECE,82.4,4.3,89.4,84.5,95.4,8.1,4.2,2026-06-06,Pass,Good preparation,High
+1064,24,Male,CSE,78.8,0.8,42.8,60.5,76.2,5.9,3.0,2026-06-13,Pass,Very well prepared,High
+1055,22,Female,ECE,78.3,3.8,89.4,84.8,100.0,6.0,3.7,2026-06-11,Pass,Good preparation,High
+1108,24,Male,Mathematics,64.7,3.1,90.4,73.0,91.0,8.0,4.2,2026-06-06,Pass,Very well prepared,High
+1051,23,Male,Physics,78.6,4.6,94.7,78.2,100.0,5.5,3.6,2026-06-15,Pass,Good preparation,High
+1121,19,Male,ECE,87.9,5.3,91.7,91.0,100.0,2.0,0.5,2026-06-06,Pass,Very well prepared,High
+1047,18,Female,Physics,88.5,5.6,76.8,85.1,100.0,6.8,2.6,2026-06-04,Pass,Average preparation,High
+1146,20,Female,Physics,84.3,5.6,100.0,100.0,100.0,5.8,2.2,2026-06-07,Pass,Average preparation,High
+1062,19,Male,ECE,76.7,2.9,78.8,77.2,100.0,9.0,5.3,2026-06-18,Pass,Very well prepared,High
+1013,20,Female,ECE,69.8,3.0,98.9,86.1,100.0,7.3,4.8,2026-06-07,Pass,Excellent effort,High
+1080,21,Male,IT,60.4,1.8,41.9,56.1,70.8,5.6,6.5,2026-06-17,Pass,Needs more practice,High
+1060,21,Female,IT,,3.7,100.0,89.3,100.0,6.8,1.4,2026-06-20,Pass,Average preparation,High
+1092,21,Female,CSE,86.6,4.6,89.9,85.5,100.0,5.7,3.6,2026-06-06,Pass,Needs better time management,High
+1042,19,Male,Physics,70.3,5.4,98.6,86.5,100.0,5.8,4.9,2026-06-11,Pass,Needs better time management,High
+1127,23,Female,Mathematics,68.2,0.5,51.9,64.3,78.0,6.8,2.7,2026-06-16,Pass,Average preparation,High
+1059,23,Female,ECE,89.8,1.8,68.7,87.8,96.3,8.0,2.0,2026-06-05,Pass,Needs better time management,High
+1049,20,Male,Physics,73.1,2.8,88.8,79.9,96.8,5.2,1.7,2026-06-16,Pass,Good preparation,High
+1089,20,Female,IT,67.8,,67.1,93.6,96.8,7.3,1.0,2026-06-03,Pass,Very well prepared,High
+1022,22,Female,Mathematics,71.4,4.1,91.5,69.0,96.4,6.1,1.9,2026-06-18,Pass,Needs better time management,High
+1058,21,Female,ECE,84.0,2.1,76.5,73.0,91.8,,5.5,2026-06-16,Pass,Very well prepared,High
+1148,21,Male,IT,71.3,2.7,78.9,59.5,82.3,,0.6,2026-06-17,Pass,Very well prepared,High
+1130,21,Female,ECE,83.8,2.8,65.8,77.4,94.0,6.9,3.5,2026-06-12,Pass,Needs more practice,High
+1038,21,Female,CSE,61.5,2.1,56.1,66.4,75.8,5.2,2.1,2026-06-18,Pass,Excellent effort,High
+1144,20,Male,IT,86.7,3.9,92.0,84.9,91.9,6.3,1.8,2026-06-04,Pass,Very well prepared,High
+1002,21,Female,CSE,80.0,2.6,58.0,70.9,100.0,5.9,4.9,2026-06-05,Pass,Needs better time management,High
+1053,20,Male,Physics,63.7,3.6,85.9,80.8,89.8,6.2,3.3,2026-06-15,Pass,Very well prepared,High
+1131,20,Male,ECE,47.3,1.6,31.1,48.4,64.5,5.2,5.0,2026-06-14,Pass,Needs more practice,Medium
+1104,20,Male,IT,79.6,2.4,68.5,71.7,74.1,6.9,3.4,2026-06-16,Pass,Needs better time management,High
+1100,19,Male,Physics,51.7,3.0,73.3,72.9,86.3,5.7,3.9,2026-06-07,Pass,Average preparation,High
+1117,22,Male,CSE,61.8,1.3,68.5,85.0,88.3,7.1,4.2,2026-06-04,Pass,Average preparation,High
+1088,18,Female,ECE,82.8,3.7,76.7,79.9,99.3,7.1,1.5,2026-06-18,Pass,Very well prepared,High
+1075,22,Male,CSE,56.4,0.5,39.8,48.9,62.5,8.7,4.9,2026-06-14,Pass,Excellent effort,Medium
+1122,19,Male,ECE,85.9,0.5,60.4,73.8,68.5,6.8,3.8,2026-06-15,Pass,Very well prepared,Medium
+1104,20,Male,IT,79.6,2.4,68.5,71.7,74.1,6.9,3.4,2026-06-16,Pass,Needs better time management,High
+1021,21,Male,IT,80.9,5.9,94.2,100.0,100.0,7.3,3.4,2026-06-02,Pass,Excellent effort,High
+1072,20,Female,IT,97.2,4.2,100.0,100.0,100.0,7.3,2.5,2026-06-19,Pass,Average preparation,High
+1107,21,Male,Mathematics,,4.3,100.0,100.0,100.0,6.2,1.7,2026-06-13,Pass,Average preparation,High
+1015,21,Male,Mathematics,72.7,3.2,66.4,77.6,71.3,7.9,3.7,2026-06-14,Pass,Needs better time management,High
+1093,18,Female,CSE,91.5,3.6,94.9,81.3,83.3,6.1,2.9,2026-06-09,Pass,Good preparation,High
+1103,18,Male,IT,61.9,3.0,73.1,67.0,78.2,7.1,5.4,2026-06-10,Pass,Needs better time management,High
